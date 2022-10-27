@@ -7,3 +7,5 @@ Check first string contains letters from the second - StringCompare.java
 Longest Palindrome Substring - LongestP.java
 
 Removing duplicate characters from a string - RemoveDupliactes.java
+
+Character frequency checking in a string - FreqString.java
